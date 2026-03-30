@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57d74419-9a7c-493d-9f09-312e707b7144" name="Changes" comment="Task4 + images.">
-      <change afterPath="$PROJECT_DIR$/Task5.html" afterDir="false" />
+    <list default="true" id="57d74419-9a7c-493d-9f09-312e707b7144" name="Changes" comment="gitignore.">
+      <change afterPath="$PROJECT_DIR$/Task6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task6/c.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +63,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774831245624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task5.">
+      <option name="closed" value="true" />
+      <created>1774831648040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774831648040</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitignore.">
+      <option name="closed" value="true" />
+      <created>1774831701222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774831701222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +96,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init." />
     <MESSAGE value="Task4 + images." />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4 + images." />
+    <MESSAGE value="Task5." />
+    <MESSAGE value="gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore." />
   </component>
 </project>
